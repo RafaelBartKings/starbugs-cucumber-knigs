@@ -18,7 +18,6 @@ Feature: Catálogo de cafés
     Then devo ver a página de Checkout com os detalhes do produto
     And o valor total da compra deve ser de "R$ 19,99"
 
-  @temp
   Scenario: Café indisponivel
     Given Eu estou na página principal da Starbugs
     And que desejo comprar o seguinte produto:
