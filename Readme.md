@@ -24,3 +24,8 @@ bundle exec cucumber
 ```
 
 <hr>
+
+TAGS
+
+@ddt
+@smoke
